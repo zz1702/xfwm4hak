@@ -1,0 +1,11 @@
+*/*/Makefile
+*/Makefile
+Makefile
+stamp-h1
+*/.deps
+*/*.o
+config.h
+config.log
+config.status
+libtool
+
